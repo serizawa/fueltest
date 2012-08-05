@@ -1,2 +1,2 @@
 web1:
-	document_root: public/
+	document_root: /public
